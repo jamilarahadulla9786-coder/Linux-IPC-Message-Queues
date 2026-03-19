@@ -88,9 +88,13 @@ int main()
 
 
 ## OUTPUT
-![Alt text](<img4/Screenshot at 2026-03-19 18-35-33.png>)!['Alt text'](img4/04.png)
-![Alt text](<img4/Screenshot at 2026-03-19 18-36-12.png>)
-![Alt text](<img4/Screenshot at 2026-03-19 18-38-00.png>)
+file:///home/rahman/os/ex04/Linux-IPC-Message-Queues/img4/04.png<img width="800" height="669" alt="image" src="https://github.com/user-attachments/assets/d2be2f04-946f-484c-ae3e-11d0f9e5f462" />
+file:///home/rahman/os/ex04/Linux-IPC-Message-Queues/img4/Screenshot%20at%202026-03-19%2018-35-33.png<img width="771" height="597" alt="image" src="https://github.com/user-attachments/assets/1763742a-3e13-4dee-8ea6-0c000b625d32" />
+file:///home/rahman/os/ex04/Linux-IPC-Message-Queues/img4/Screenshot%20at%202026-03-19%2018-36-12.png<img width="794" height="671" alt="image" src="https://github.com/user-attachments/assets/6c7a4771-5c93-4743-a335-f3a55c37153d" />
+file:///home/rahman/os/ex04/Linux-IPC-Message-Queues/img4/Screenshot%20at%202026-03-19%2018-38-00.png<img width="807" height="267" alt="image" src="https://github.com/user-attachments/assets/00c88db5-eb3a-4df8-808c-2b1cc54fefec" />
+
+
+
 
 
 
